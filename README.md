@@ -7,5 +7,5 @@ study uGUI
 [Flat Icoon & UI - 2D Puzzle Game UI](https://assetstore.unity.com/packages/2d/gui/icons/flat-icoon-ui-2d-puzzle-game-ui-69370)
 
 ## Demo
-![] (ReadmeResource/demo01.gif)
-![] (ReadmeResource/demo02.gif)
+![demo] (ReadmeResource/demo01.gif)
+![demo] (ReadmeResource/demo02.gif)
