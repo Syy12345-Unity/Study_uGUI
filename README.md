@@ -23,4 +23,4 @@ study uGUI
 
 ## License Logo
 
-![logo](logo.png)
+![logo](Logo.png)
