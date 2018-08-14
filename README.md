@@ -15,6 +15,7 @@ study uGUI
 |![demo](ReadmeResource/demo03.gif)|demo03.<br>Gauge demo|
 |![demo](ReadmeResource/demo04.gif)|demo04.<br>Text Adjust demo|
 |![demo](ReadmeResource/demo05.gif)|demo05.<br>Text Adjust demo(with min/max size)|
+|![demo](ReadmeResource/demo06.gif)|demo06.<br>World space canvas|
 
 ## Library , Assets
 * [Flat Icoon & UI - 2D Puzzle Game UI](https://assetstore.unity.com/packages/2d/gui/icons/flat-icoon-ui-2d-puzzle-game-ui-69370)
